@@ -5,42 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a74e8f-17eb-45e0-b9cf-45b9aad459c3" name="Changes" comment="java 배열기초, pop, copy 알고리즘">
-      <change afterPath="$PROJECT_DIR$/src/day03/ArrayDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArrayInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearchQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/MethodBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/MethodQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/array/StringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/array/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/danceLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/dancerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/fieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/fieldandLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/packagePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/stringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/memberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/memberView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/요구사항" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/player/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/player/player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/encap/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/encap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juice/apple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/player/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/player/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/player/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/player/player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,14 +56,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/java_basic2023",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="day05.member" />
@@ -104,7 +73,7 @@
       <recent name="day02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.main2">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04.array.Main" />
       <module name="java_basic" />
