@@ -5,28 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a74e8f-17eb-45e0-b9cf-45b9aad459c3" name="Changes" comment="java 배열기초, pop, copy 알고리즘">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day01/dataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/ArrayBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/ArrayPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/ArrayPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/ArrayPushQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/StdIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day02/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArrayDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArrayInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearchQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/MethodBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day03/MethodQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/array/StringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/array/main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/danceLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/dancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/dancerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/fieldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/fieldandLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/packagePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/stringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/memberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/memberView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/member/요구사항" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/player/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day05/player/player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/encap/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/encap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/juice/apple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +76,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.18/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.18/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,7 +86,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -66,21 +93,24 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day05.member" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="day02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SwitchExample">
-    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayCopy" />
+  <component name="RunManager" selected="애플리케이션.main2">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.array.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day04.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayPop" />
+    <configuration name="MethodQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.MethodQuiz" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayPush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.ArrayPush" />
+    <configuration name="dancerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.dancerMain" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.StdIO" />
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.array.main2" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day04.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02.SwitchExample" />
+    <configuration name="packagePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.packagePractice" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02.*" />
+          <option name="PATTERN" value="day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.SwitchExample" />
-        <item itemvalue="애플리케이션.StdIO" />
-        <item itemvalue="애플리케이션.ArrayPush" />
-        <item itemvalue="애플리케이션.ArrayPop" />
-        <item itemvalue="애플리케이션.ArrayCopy" />
+        <item itemvalue="애플리케이션.main2" />
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.packagePractice" />
+        <item itemvalue="애플리케이션.dancerMain" />
+        <item itemvalue="애플리케이션.MethodQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679881107388</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java 배열기초, pop, copy 알고리즘">
+      <created>1679975315068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679975315068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
