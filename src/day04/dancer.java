@@ -23,7 +23,7 @@ public class dancer {
     dancerName="갑돌이";
     crewName="돌아이들";
     genre="힙합";
-    level = danceLevel.AMATUER;
+//    level = danceLevel.AMATUER;
     }
 
     //생성자 오버로딩
@@ -31,14 +31,14 @@ public class dancer {
         dancerName="관종킹";
         crewName="써커스왕";
         genre=dgenre;
-        level=danceLevel.BEGINNER;
+//        level=danceLevel.BEGINNER;
     }
             //String 변수, dName 필드
     dancer(String dName, String dGenre, danceLevel dLevel){
         dancerName= dName;
         crewName="하하호호";
         genre=dGenre;
-        level=danceLevel.BEGINNER;
+//        level=danceLevel.BEGINNER;
     }
 
     //기능 (메서드) : static 붙이지 마세요

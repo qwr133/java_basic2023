@@ -4,43 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a74e8f-17eb-45e0-b9cf-45b9aad459c3" name="Changes" comment="java 배열기초, pop, copy 알고리즘">
-      <change afterPath="$PROJECT_DIR$/src/day03/ArrayDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArrayInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/ArraySearchQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/MethodBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day03/MethodQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/array/StringList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/array/main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/danceLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/dancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/dancerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/fieldMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/fieldandLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/packagePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/stringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/memberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/memberView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/member/요구사항" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/player/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day05/player/player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/encap/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/encap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06/modi/pac2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/Grape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/juice/apple.java" afterDir="false" />
+    <list default="true" id="74a74e8f-17eb-45e0-b9cf-45b9aad459c3" name="Changes" comment="4/3 자바 2장 7강까지">
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Hunter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/inherit/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/LottoSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/LottoTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/lotto/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/protec/pac2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/GisaFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/quiz/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/static_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/util/Utility.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04/dancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day04/dancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/member/memberView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/member/memberView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/player/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/player/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day05/player/player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day05/player/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,13 +93,13 @@
       <recent name="day02" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.array.Main" />
+  <component name="RunManager">
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day07.lotto.Lotto" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04.array.*" />
+          <option name="PATTERN" value="day07.lotto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03.MethodQuiz" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.array.Main" />
       <module name="java_basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03.*" />
+          <option name="PATTERN" value="day04.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Lotto" />
         <item itemvalue="애플리케이션.main2" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.packagePractice" />
         <item itemvalue="애플리케이션.dancerMain" />
-        <item itemvalue="애플리케이션.MethodQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679975315068</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4/3 자바 2장 7강까지">
+      <created>1680511670968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680511670968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +228,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial Commit" />
     <MESSAGE value="java 배열기초, pop, copy 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="java 배열기초, pop, copy 알고리즘" />
+    <MESSAGE value="4/3 자바 2장 7강까지" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/3 자바 2장 7강까지" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
