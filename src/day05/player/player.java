@@ -1,6 +1,6 @@
 package day05.player;
 
-public class player {
+public class Player {
 
     // 필드
     String nickName; // 캐릭터 닉네임
@@ -8,30 +8,30 @@ public class player {
     int hp; // 체력
 
     // 생성자
-    public player() {
-        this("이름없음");
+    public Player() {
+        this("이름없음"); // this. = 나의 또 다른 생성자를 불러주세요
 //        System.out.println("1번 생성자 호출!");
 //        this.nickName = "이름없음";
 //        this.level = 1;
 //        this.hp = 50;
     }
 
-    public player(String nickName) {
+    public Player(String nickName) {
         this(nickName, 1, 50);
 //        System.out.println("2번 생성자 호출!");
     }
 
-    public player(String nickName, int level, int hp) {
+    public Player(String nickName, int level, int hp) {
         this.nickName = nickName;
         this.level = level;
         this.hp = hp;
     }
 
     // 기능 - 메서드
-    void levelUp(player this) {
+    void levelUp(Player this) {
 
     }
-    void attack(player target) {
+    void attack(Player target) {
 
         if (this == target) return;
 
