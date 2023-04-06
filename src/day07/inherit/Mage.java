@@ -37,7 +37,7 @@ public class Mage extends Player {
             }
         }
 
-    }
+
 
     @Override
     public void showStatus() {

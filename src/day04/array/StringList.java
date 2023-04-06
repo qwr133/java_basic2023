@@ -9,12 +9,12 @@ public class StringList {
     String[] sArr;
 
     // 생성자
-    StringList() {
+    public StringList() {
 //        System.out.println("StringList 생성자 끌려옴");
         sArr = new String[0];
     }
 
-    StringList(String... initData) {
+    public StringList(String... initData) {
         sArr = new String[initData.length];
         for (int i = 0; i < sArr.length; i++) {
             sArr[i] = initData[i];
@@ -24,11 +24,11 @@ public class StringList {
 
     // 메서드
     // 배열에 저장된 데이터 수를 알려주는 기능
-    int size() {
+    public int size() {
         return sArr.length;
     }
     // 배열에 맨 끝에 데이터를 추가하는 기능
-    void push(String newData) {
+    public void push(String newData) {
         String[] temp = new String[sArr.length + 1];
         for (int i = 0; i < sArr.length; i++) {
             temp[i] = sArr[i];
@@ -72,7 +72,7 @@ public class StringList {
     }
 
     // 자료 유무 확인 (includes)
-    boolean includes(String target) {
+   public boolean includes(String target) {
         return indexOf(target) != -1;
     }
 
@@ -108,5 +108,7 @@ public class StringList {
         temp[index] = newData;
         sArr = temp;
     }
-
+    public String[] getsArr() {
+        return sArr;
+    }
 }

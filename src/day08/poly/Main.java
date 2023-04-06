@@ -1,5 +1,8 @@
 package day08.poly;
 
+import day08.poly.Computer;
+import day08.poly.Lgmonitor;
+
 public class Main {
 
     public static void main(String[] args) {
