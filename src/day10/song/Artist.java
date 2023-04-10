@@ -2,37 +2,43 @@ package day10.song;
 
 import day04.array.StringList;
 
-public class Artist {
+import java.io.Serializable;
+import java.util.Set;
 
-    private String Artist;
-    private StringList songList;
+public class Artist implements Serializable {
 
-    public Artist(){
+    private String name;  // 가수 이름
+    private Set<String> songList; // 노래 목록
+
+    public Artist() {
 
     }
-    public Artist(String artist, StringList songList) {
-        this.Artist = artist;
+
+    public Artist(String name, Set<String> songList) {
+        this.name = name;
         this.songList = songList;
     }
 
-    public String getArtist() {
-        return Artist;
+    public String getName() {
+        return name;
     }
 
-    public void setArtist(String artist) {
-        Artist = artist;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public StringList getSongList() {
+    public Set<String> getSongList() {
         return songList;
     }
 
-    public void setSongList(StringList songList) {
+    public void setSongList(Set<String> songList) {
         this.songList = songList;
     }
 
-    public void info(){
-        System.out.println("가수명"+this.Artist);
-        System.out.println("노래목록"+this.songList);
+    // 가수의 정보를 출력하는 기능
+    public void info() {
+        System.out.println("가수명: " + this.name);
+        System.out.println("노래 목록: " + this.songList);
     }
+
 }
