@@ -46,5 +46,9 @@ public class User {
                 ", userId='" + userId + '\'' +
                 ", userpwd='" + userpwd + '\'' +
                 '}';
+
+
     }
+
+
 }

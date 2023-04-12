@@ -14,7 +14,7 @@ public class InventoryManagementView {
 
 
     //1. 국가별 - OriginWineSelect
-   OriginWineSelect.OriginWineSelect();
+//   OriginWineSelect.OriginWineSelect();
         //2. 타입별 - typeWineSelect
 
 
@@ -22,5 +22,3 @@ public class InventoryManagementView {
             //3. 전체
 
         }
-    }
-}
