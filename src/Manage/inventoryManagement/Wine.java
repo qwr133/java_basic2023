@@ -1,4 +1,4 @@
-package Manage;
+package Manage.inventoryManagement;
 
 public class Wine {
 

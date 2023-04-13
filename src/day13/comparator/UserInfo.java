@@ -1,16 +1,16 @@
 package day13.comparator;
 
-public class Student {
+public class UserInfo {
 
 
     private String name;
     private int age;
     private int score; //시험점수
 
-    public Student() {
+    public UserInfo() {
     }
 
-    public Student(String name, int age, int score) {
+    public UserInfo(String name, int age, int score) {
         this.name = name;
         this.age = age;
         this.score = score;

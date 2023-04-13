@@ -1,4 +1,4 @@
-package Manage;
+package Manage.inventoryManagement;
 
 import JavaProject.Wine;
 
@@ -16,7 +16,7 @@ public class TypeWineSelect {
         System.out.println("3. 스파클링와인");
         System.out.println("4. 로제와인");
         System.out.println("5. 주정강화");
-        System.out.println("6. 뒤로가기");
+        System.out.println("9. 뒤로가기");
         String TypeWine = input(">>>");
 
 
@@ -35,6 +35,34 @@ public class TypeWineSelect {
                         .filter((w -> w.getWineType() == "화이트"))
                         .collect(Collectors.toList());
                 System.out.println(WhiteWine);
+                break;
+
+            case "3":
+                System.out.println("==스파클링와인==");
+                List<Wine> SparklingWine = valueList.stream()
+                        .filter((w -> w.getWineType() == "스파클링"))
+                        .collect(Collectors.toList());
+                System.out.println(SparklingWine);
+                break;
+
+            case "4":
+                System.out.println("==로제와인==");
+                List<Wine> RoseWine = valueList.stream()
+                        .filter((w -> w.getWineType() == "로제"))
+                        .collect(Collectors.toList());
+                System.out.println(RoseWine);
+                break;
+
+            case "5":
+                System.out.println("==주정강화와인==");
+                List<Wine> ExtraAlcohol = valueList.stream()
+                        .filter((w -> w.getWineType() == "주정강화"))
+                        .collect(Collectors.toList());
+                System.out.println(ExtraAlcohol);
+                break;
+
+            case "9":
+                InventoryManagementView.InventoryManagementView();
                 break;
 
         }
